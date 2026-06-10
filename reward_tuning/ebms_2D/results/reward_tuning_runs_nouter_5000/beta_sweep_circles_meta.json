@@ -1,0 +1,17 @@
+{
+  "experiment_name": "beta_sweep_circles",
+  "dataset_alias": "ebm_circles",
+  "beta_kl_values": [
+    0.1,
+    0.25,
+    0.5,
+    1.0,
+    5.0
+  ],
+  "seeds": [
+    0
+  ],
+  "run_impdiff": true,
+  "run_sosmc": true,
+  "started_at": "2026-06-10T11:55:46.647440"
+}

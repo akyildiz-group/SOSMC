@@ -1,0 +1,13 @@
+{
+  "experiment_name": "illustrative_experimental_trial",
+  "dataset_alias": "ebm_circles",
+  "beta_kl_values": [
+    0.25
+  ],
+  "seeds": [
+    42
+  ],
+  "run_impdiff": true,
+  "run_sosmc": true,
+  "started_at": "2026-01-23T17:35:56.445957"
+}
